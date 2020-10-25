@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298475282888",
+    "firebase_url": "https://fir-chat-fc299.firebaseio.com",
+    "project_id": "fir-chat-fc299",
+    "storage_bucket": "fir-chat-fc299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298475282888:android:ecd34c055dec5246a820fd",
+        "android_client_info": {
+          "package_name": "com.lynhill.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298475282888-tkbgesf7f02fr95u3m1ssq6e8terns9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3oGBm2gmKepcfispNVt-eMyrGuTUl6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298475282888-tkbgesf7f02fr95u3m1ssq6e8terns9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
