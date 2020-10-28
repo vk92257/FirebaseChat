@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
          mAuth = FirebaseAuth.getInstance();
          indicatorView = findViewById(R.id.avi);
          userName = findViewById(R.id.name);
-        cardView= findViewById(R.id.sign_up);
-        cardView.setOnClickListener(new View.OnClickListener() {
+         cardView= findViewById(R.id.sign_up);
+         cardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 

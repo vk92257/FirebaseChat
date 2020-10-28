@@ -62,6 +62,7 @@ public class ChatActivity extends AppCompatActivity {
                             user.setUserName(snapshot1.getValue().toString());
                             user.setuId(snapshot1.getKey());
                             strings.add(user);
+                           Log.i("TAG", "onDataChange: "+user.getUserName());
                        }
                    }
                     chatAdapter.notifyDataSetChanged();

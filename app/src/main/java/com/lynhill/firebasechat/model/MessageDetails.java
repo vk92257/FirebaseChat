@@ -1,11 +1,20 @@
 package com.lynhill.firebasechat.model;
 
-import android.net.Uri;
+
 
 public class MessageDetails {
     public String message;
     public String id;
     public String time;
+    public String video_uri;
+
+    public String getVideo_uri() {
+        return video_uri;
+    }
+
+    public void setVideo_uri(String video_uri) {
+        this.video_uri = video_uri;
+    }
 
     public String getImage_uri() {
         return image_uri;
